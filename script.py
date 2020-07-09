@@ -1,8 +1,10 @@
 # Script de prueba para Git
-# Autor: Rodrigo Tufiño rtufino@ups.edu.ec
-# Fecha: 23-06-2020
+# Autor: Jacome Maria y Mendoza Alisson 
+# Fecha: 08-07-2020
 # Versión: 1.0.0
 def main ():
-	print ( "Hola Mundo!" )
+	nombre= input("cual es tu nombre")
+	print ( "Hola, nombre, "Bienvenidos" )
 	if __name__ == "__main__" :
-main()
+if _name_=="_main_":
+	main()
